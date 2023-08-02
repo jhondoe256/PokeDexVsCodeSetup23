@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\obj\\Debug\\net8.0\\compressed\\lou2o6k0bg.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pokedex.BlazorWASM.styles.css",
+      "PackagePath": "staticwebassets\\Pokedex.BlazorWASM.styles.css"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\css\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\css\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\css\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\css\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\css\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\css\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\ElevenFiftyRedBage165\\IntBlazor_Pokedex\\Pokedex.BlazorWASM\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pokedex.BlazorWASM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pokedex.BlazorWASM.props",
+      "PackagePath": "build\\Pokedex.BlazorWASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pokedex.BlazorWASM.props",
+      "PackagePath": "buildMultiTargeting\\Pokedex.BlazorWASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pokedex.BlazorWASM.props",
+      "PackagePath": "buildTransitive\\Pokedex.BlazorWASM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
